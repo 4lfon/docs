@@ -11,7 +11,7 @@
 
 - [4lfon](https://github.com/orgs/smartjump/people/4lfon)
 - [Boris Chirino](https://github.com/orgs/smartjump/people/bolek1976)
-- [fooock] (https://github.com/orgs/smartjump/people/fooock)
+- [fooock](https://github.com/orgs/smartjump/people/fooock)
 - [Rafa Couto](https://github.com/orgs/smartjump/people/rafacouto)
 - [NiXijav ](https://github.com/orgs/smartjump/people/ResonantWave)
 
