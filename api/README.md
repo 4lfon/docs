@@ -1,6 +1,8 @@
 
 # REST API
 
+- Base URL: http://smartjump.ovh
+
 ## /nearest 
 
 Returns the nearest bus stops and bike stations ("jump points" in general) from 
