@@ -17,6 +17,11 @@
 
 ![logo](img/logo.jpg)
 
+## Also thanks to
+
+- César & Santi (serving python with uwsgi and merging panda's dataset)
+
+
 
 [API01]: api
 [GIT01]: https://github.com/smartjump
