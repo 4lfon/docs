@@ -37,7 +37,9 @@ Returns the nearest 10 jump points ordered by distance from the input location.
             longitude: -8.438327,
             distance: 290,
             mean: "bus",
-            address: "Ronda de Outeiro, 54"
+            info: {
+                address: "Ronda de Outeiro, 54"
+            }
 	},
     	{ 
             id: 34,
@@ -45,7 +47,9 @@ Returns the nearest 10 jump points ordered by distance from the input location.
             longitude: -8.433362,
             distance: 434,
             mean: "bike",
-            address: "Estación de trenes"
+            info: {
+                address: "Estación de trenes"
+            }
 	},
     	{ 
             id: 77,
@@ -53,7 +57,9 @@ Returns the nearest 10 jump points ordered by distance from the input location.
             longitude: -8.433838,
             distance: 560,
             mean: "bus",
-            address: "Alfonso Molina, 112"
+            info: {
+                address: "Alfonso Molina, 112"
+            }
 	}
 
         ...
@@ -67,6 +73,7 @@ Returns the nearest 10 jump points ordered by distance from the input location.
     - longitude (float): location component ot the jump.
     - distance (float) : distance in meters to the jump.
     - mean (string): mean of transport (currently "bus" or "bike").
-    - address (string): human understable location.
+    - info (object): extra info about the jump.
+       - address (string): human understable location.
 
 
