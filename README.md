@@ -9,11 +9,11 @@
 
 ## Team
 
-- [4lfon](https://github.com/orgs/smartjump/people/4lfon)
-- [Boris Chirino](https://github.com/orgs/smartjump/people/bolek1976)
-- [fooock](https://github.com/orgs/smartjump/people/fooock)
-- [Rafa Couto](https://github.com/orgs/smartjump/people/rafacouto)
-- [NiXijav ](https://github.com/orgs/smartjump/people/ResonantWave)
+- [Alfonso Bilbao](https://github.com/orgs/smartjump/people/4lfon) (backend developer con buena vista)
+- [Boris Chirino](https://github.com/orgs/smartjump/people/bolek1976) (IOS developer dulce)
+- [Javier Casanova](https://github.com/orgs/smartjump/people/fooock) (Android developer sufrido)
+- [Caligari](https://github.com/orgs/smartjump/people/rafacouto) (sysadmin trasnochado)
+- [NiXijav ](https://github.com/orgs/smartjump/people/ResonantWave) (backend developer algoritmista)
 
 
 
