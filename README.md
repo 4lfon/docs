@@ -10,11 +10,12 @@
 ## Team
 
 - [Alfonso Bilbao](https://github.com/orgs/smartjump/people/4lfon) (backend developer con buena vista)
-- [Boris Chirino](https://github.com/orgs/smartjump/people/bolek1976) (IOS developer dulce)
+- [Boris Chirino](https://github.com/orgs/smartjump/people/bolek1976) (IOS developer keyed archiver)
 - [Javier Casanova](https://github.com/orgs/smartjump/people/fooock) (Android developer sufrido)
 - [Caligari](https://github.com/orgs/smartjump/people/rafacouto) (sysadmin trasnochado)
 - [NiXijav ](https://github.com/orgs/smartjump/people/ResonantWave) (backend developer algoritmista)
 
+![logo](img/logo.jpg)
 
 
 [API01]: api
